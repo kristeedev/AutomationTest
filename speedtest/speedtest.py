@@ -1,4 +1,5 @@
 import unittest
+from time import sleep
 import sys
 from appium import webdriver
 
